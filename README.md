@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Rahul Goswami</h1>
-<h3 align="center">Full Stack Developer — PHP & React</h3>
+<h3 align="center">PHP Full Stack Developer</h3>
 
 <p align="center">
 Passionate about building clean UI and robust backend systems.<br>
@@ -28,7 +28,7 @@ Love transforming ideas into real working products 🚀
 
 <!-- Contact -->
 <br/>
-<p align="center" style="padding: 6px;">
+<p align="center">
   <a href="mailto:therahulgoswami99@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email Me-orange?style=flat-square" />
   </a>
@@ -37,7 +37,7 @@ Love transforming ideas into real working products 🚀
 ---
 
 ### 🚀 About Me
-I’m a passionate and results-driven Full Stack Developer who enjoys solving real-world problems through elegant, scalable, and intuitive digital experiences. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, React, Tailwind CSS, and Next.js — combined with secure and efficient backend development using PHP and Laravel — I build products that merge performance with creativity.
+I’m a passionate and results-driven Full Stack Developer who enjoys solving real-world problems through elegant, scalable, and intuitive digital experiences. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, React, Tailwind CSS, and Next.js — combined with secure and efficient backend development using PHP + SQL and Laravel — I build products that merge performance with creativity.
 
 I’m highly design-focused, always seeking balance between aesthetics and functionality. Whether it’s crafting smooth interactions, clean UI layouts, or immersive web animations, I love bringing ideas to life in a way that feels both polished and meaningful. I also believe in writing clean, maintainable code while collaborating closely with teams or clients to turn concepts into successful, user-centered solutions.
 
