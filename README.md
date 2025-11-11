@@ -12,7 +12,7 @@ Love transforming ideas into real working products 🚀
 <!-- CTA Buttons -->
 <p align="center">
   <a href="https://rahulgoswami.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=yellow" />
   </a>
   <a href="https://x.com/Gohan244" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
