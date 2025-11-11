@@ -26,9 +26,6 @@ Love transforming ideas into real working products 🚀
 </p>
 
 
-<br/>
-
-
 <!-- Contact -->
 <br/>
 <p align="center" style="padding: 6px;">
@@ -36,7 +33,7 @@ Love transforming ideas into real working products 🚀
     <img src="https://img.shields.io/badge/Contact-Email Me-orange?style=flat-square" />
   </a>
 </p>
-<br/>
+
 ---
 
 ### 🚀 About Me
