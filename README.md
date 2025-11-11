@@ -1,18 +1,20 @@
-
-<h1 align="center">Hi 👋, I'm Rahul Goswami</h1>
-<h3 align="center">Full Stack Developer (PHP + React)</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Rahul Goswami</h1>
+<h3 align="center">Full Stack Developer — PHP & React</h3>
 
 <p align="center">
-I craft modern, high-performance web applications with great user experience.  
-Bringing ideas to life with clean UI and solid backend logic ⚡
+Passionate about building clean UI and robust backend systems.<br>
+Love transforming ideas into real working products 🚀
 </p>
 
----
+<br/>
 
-### 📫 Reach Me
-<a href="mailto:therahulgoswami99@gmail.com">
-<img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge" />
-</a>
+<!-- Contact -->
+<p align="center">
+  <a href="mailto:therahulgoswami99@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email Me-orange?style=flat-square" />
+  </a>
+</p>
 
 ---
 
@@ -56,13 +58,6 @@ Bringing ideas to life with clean UI and solid backend logic ⚡
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoswami10&layout=compact&theme=react" height="160" />
 </p>
 
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rahulgoswami10&theme=react&hide_border=false" alt="Github Streak" />
-</p>
 
 ---
 
