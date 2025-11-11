@@ -9,6 +9,25 @@ Love transforming ideas into real working products 🚀
 
 <br/>
 
+<!-- CTA Buttons -->
+<p align="center">
+  <a href="https://rahulgoswami.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://x.com/Gohan244" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahulgoswami10" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Coming Soon-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahulgoswami10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+
 <!-- Contact -->
 <p align="center">
   <a href="mailto:therahulgoswami99@gmail.com">
