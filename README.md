@@ -1,58 +1,66 @@
-<h1 align="center">Hi 👋, I'm Rahul Goswami</h1>
-<h3 align="center">Full Stack Developer (PHP + React)</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Rahul Goswami</h1>
+<h3 align="center">Full Stack Developer — PHP & React</h3>
 
 <p align="center">
-I craft modern, high-performance web applications with great user experience.  
-Bringing ideas to life with clean UI and solid backend logic ⚡
+Passionate about building clean UI and robust backend systems.<br>
+Love transforming ideas into real working products 🚀
+</p>
+
+<br/>
+
+<!-- Contact -->
+<p align="center">
+  <a href="mailto:therahulgoswami99@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email Me-orange?style=flat-square" />
+  </a>
 </p>
 
 ---
 
-### 📫 Reach Me
-<a href="mailto:therahulgoswami99@gmail.com">
-<img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge" />
-</a>
+### 👨‍💻 About Me  
+- 🌱 Currently learning **Laravel + Next.js** for scalable apps  
+- 🎯 Focus: Frontend quality + Backend performance  
+- 🧩 Love UI/UX, animations & clean code  
+- ✨ Open for freelance & remote opportunities  
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently improving my **Laravel & Next.js** skills  
-- 💡 Skilled in both **Frontend & Backend** web development  
-- 🎯 Goal: Building scalable real-world web platforms  
-- ⚡ Fun fact: I love crafting unique UI & 3D web animations  
+### 🧰 Technologies & Tools
 
----
-
-### 🛠️ Tech Skills
-
-**Frontend**
+#### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,react,nextjs,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,react,nextjs&perline=6" />
 </p>
 
-**Backend**
+#### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&perline=6" />
 </p>
 
-**Tools & Others**
+#### Design / Other
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,threejs,ps" />
+<img src="https://skillicons.dev/icons?i=figma,github,git,vscode,ps,threejs&perline=6" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-*(Adding soon — show the world your best work!)*  
-✔ Add Laravel, React or Portfolio projects here later
+### 🏗️ Featured Projects (Coming Soon)
+
+| Project | Stack | Description |
+|--------|------|-------------|
+| Portfolio Website | Next.js + Tailwind | Modern developer portfolio |
+| Laravel App | Laravel + MySQL | Full-featured CRUD dashboard |
+
+> I'll keep updating as I build more stuff 👨‍💻
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahulgoswami10&show_icons=true&theme=react" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoswami10&layout=compact&theme=react" height="160" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rahulgoswami10&theme=vue&show_icons=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoswami10&layout=compact&theme=vue&hide_border=true" />
 </p>
 
 ---
@@ -60,12 +68,14 @@ Bringing ideas to life with clean UI and solid backend logic ⚡
 ### 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rahulgoswami10&theme=react&hide_border=false" alt="Github Streak" />
+<img src="https://streak-stats.demolab.com?user=rahulgoswami10&theme=vue&hide_border=true" height="180" />
 </p>
 
 ---
 
 <p align="center">
-Thanks for visiting! Have a great day 👨‍💻🌟
+Thank you for visiting my profile! ✨  
+Let’s build something awesome together.
 </p>
+
 
