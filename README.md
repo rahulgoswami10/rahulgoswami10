@@ -30,12 +30,13 @@ Love transforming ideas into real working products 🚀
 
 
 <!-- Contact -->
+<br/>
 <p align="center" style="padding: 6px;">
   <a href="mailto:therahulgoswami99@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email Me-orange?style=flat-square" />
   </a>
 </p>
-
+<br/>
 ---
 
 ### 🚀 About Me
