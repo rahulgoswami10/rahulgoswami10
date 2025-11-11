@@ -63,11 +63,6 @@ Love transforming ideas into real working products 🚀
 <img src="https://skillicons.dev/icons?i=git,github,vscode,threejs,ps" />
 </p>
 
----
-
-### 📌 Featured Projects
-*(Adding soon — show the world your best work!)*  
-✔ Add Laravel, React or Portfolio projects here later
 
 ---
 
