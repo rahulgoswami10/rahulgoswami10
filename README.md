@@ -39,10 +39,12 @@ Love transforming ideas into real working products 🚀
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently improving my **Laravel & Next.js** skills  
-- 💡 Skilled in both **Frontend & Backend** web development  
-- 🎯 Goal: Building scalable real-world web platforms  
-- ⚡ Fun fact: I love crafting unique UI & 3D web animations  
+I’m a passionate and results-driven Full Stack Developer who enjoys solving real-world problems through elegant, scalable, and intuitive digital experiences. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, React, Tailwind CSS, and Next.js — combined with secure and efficient backend development using PHP and Laravel — I build products that merge performance with creativity.
+
+I’m highly design-focused, always seeking balance between aesthetics and functionality. Whether it’s crafting smooth interactions, clean UI layouts, or immersive web animations, I love bringing ideas to life in a way that feels both polished and meaningful. I also believe in writing clean, maintainable code while collaborating closely with teams or clients to turn concepts into successful, user-centered solutions.
+
+Curious by nature and continuously learning, I’m excited by challenges that allow me to expand my skills and contribute to building innovative web experiences that truly stand out.
+
 
 ---
 
