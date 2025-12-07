@@ -64,15 +64,6 @@ Curious by nature and continuously learning, I’m excited by challenges that al
 </p>
 
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahulgoswami10&show_icons=true&theme=react" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoswami10&layout=compact&theme=react" height="160" />
-</p>
-
 
 ---
 
