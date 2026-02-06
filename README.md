@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Rahul Goswami</h1>
-<h3 align="center">PHP Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
 Passionate about building clean UI and robust backend systems.<br>
